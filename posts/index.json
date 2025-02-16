@@ -1,0 +1,11 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Welcome to My Blog",
+            "date": "2024-02-16",
+            "url": "/posts/welcome.html",
+            "excerpt": "Welcome to my personal blog where I'll be sharing my thoughts and experiences."
+        }
+    ]
+} 
