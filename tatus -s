@@ -1,0 +1,15 @@
+core.symlinks=false
+transfer.fsckobjects=true
+fetch.fsckobjects=true
+receive.fsckobjects=true
+user.email=sinnlife@duck.com
+user.name=Sinn Life
+credential.helper=store
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:sinnlife/sinnlife.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
